@@ -44,7 +44,6 @@ Com o SendAd, você pode **alterar imagens e links** a qualquer momento **sem pr
    banner2.jpg
    banner3.jpg
 
-
 ---
 
 ## ✨ Vantagens
