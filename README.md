@@ -68,6 +68,19 @@ O envio de banners aleatórios funciona perfeitamente para blogs e newsletters.
 Este projeto é livre para uso pessoal ou comercial.  
 Contribuições são bem-vindas!
 
+### Tags
+
+1. **MailAds**  
+2. **InMail Ads**  
+3. **BannerPost**  
+4. **AdMailer**  
+5. **EmailBoost**  
+6. **ClickMail**  
+7. **SmartBanner**  
+8. **MailSpot**  
+9. **BannerPulse**  
+10. **SendAd**
+
 ---
 
 **Feito com café e códigos por [Gean Ramos](https://geanramos.com.br) ☕💻**
