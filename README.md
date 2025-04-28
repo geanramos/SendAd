@@ -1,7 +1,5 @@
-# SendAd
-https://geanramos.github.io/SendAd
-
 # 📢 SendAd
+### https://geanramos.github.io/SendAd
 
 **SendAd** é uma solução minimalista e poderosa para inserir **banners dinâmicos** com **links de redirecionamento controláveis** em campanhas de e-mail, newsletters e blogs.
 
